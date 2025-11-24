@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sahani 👋 🌸</h1>
+<h1 align="center">Hi, I'm Sahani </h1>
 <p align="center">Undergraduate • Full-Stack Developer (in progress)</p>
 
 ---
