@@ -36,7 +36,7 @@
 
 ## 🌐 Connect  
 📧 **Email:** *kpsrandula@gmail.com*  
-🔗 **LinkedIn:** *linkedin.com/in/sahani-randula/*  
+🔗 **LinkedIn:** *https://linkedin.com/in/sahani-randula/*  
 
 <p align="center"><b>Always learning. Always building.</b></p>
 <!--
