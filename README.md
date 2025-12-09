@@ -14,14 +14,14 @@
 ## 🛠️ Tech Stack & Tools  
 **Core:** Java • JavaScript • HTML • CSS  
 **Frontend:** React.js • Next.js  
-**Backend:** Node.js • PHP 
-**Database:** MySQL • MongoDB 
-**Currently Learning:** • Python  
+**Backend:** Node.js • PHP  
+**Database:** MySQL • MongoDB  
+**Currently Learning:** Python  
 **Tools:** Git • GitHub • VS Code • Figma • POSTMAN • Trello
 
 ---
 
-## 🏅 Holopin 
+## 🏅 Holopin  
 [![An image of @sahani99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahani99)](https://holopin.io/@sahani99)
 
 ---
@@ -32,7 +32,6 @@
   <img height="165" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Sahani99&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
 ## 🌐 Connect  
@@ -40,6 +39,3 @@
 🔗 **LinkedIn:** *https://linkedin.com/in/sahani-randula/*  
 
 <p align="center"><b>Always learning. Always building.</b></p>
-<!--
-**Sahani99/Sahani99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
