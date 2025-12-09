@@ -28,9 +28,10 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="165" src="https://my-repo-ruby-five.vercel.app/api?username=Sahani99&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://my-repo-ruby-five.vercel.app/api/top-langs/?username=Sahani99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahani99&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahani99&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
